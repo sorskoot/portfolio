@@ -1,1 +1,16 @@
 @import "{{ site.theme }}";
+
+$color-dark: #000000;
+$color-light: #F8E5E5;
+$color-soft: #C39EA0;
+$color-accent: #FA255E;
+
+body {
+  background-color: $color-light;
+  color:$color-soft;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:$color-accent;
+
+}
