@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Sorskoot Portfolio
+logo: /assets/img/logo.png
+description: Portfolio with the creations of Timmy Kokkr
+show_downloads: false
